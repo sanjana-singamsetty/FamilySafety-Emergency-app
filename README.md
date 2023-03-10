@@ -64,7 +64,7 @@ The following are the Dashboard and profile section of the app
 ## how this app works [visual]
 GoogleDriveLink: https://drive.google.com/file/d/15e_yV7r05qij7y2a8bCLzce1Qwd-4VK7/view?usp=share_link
 
-## Feautures of the App
+## Features of the App
 - Decent Ui
 - Maps 
 - Firestore for storing data 
