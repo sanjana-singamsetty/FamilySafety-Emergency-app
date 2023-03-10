@@ -46,8 +46,12 @@ After giving all the permissions and the the user is navigated to the app where 
 ![Screenshot 2023-03-11 035948](https://user-images.githubusercontent.com/102940747/224440680-76c02dc6-42b0-4ec8-8719-7c5f660e5b53.png) The page which user is navigated into after the login -Home Page
 
 
+ 
+- the gaurd page 
+- 
 
-![Screenshot 2023-03-11 040048](https://user-images.githubusercontent.com/102940747/224440687-935a313a-dd89-4361-a2d5-73fbe4b979cb.png)   - the gaurd page 
+![Screenshot 2023-03-11 040048](https://user-images.githubusercontent.com/102940747/224440687-935a313a-dd89-4361-a2d5-73fbe4b979cb.png) 
+
 
 
 The following are the Dashboard and profile section of the app
@@ -58,5 +62,76 @@ The following are the Dashboard and profile section of the app
 
 
 ## how this app works [visual]
+GoogleDriveLink: https://drive.google.com/file/d/15e_yV7r05qij7y2a8bCLzce1Qwd-4VK7/view?usp=share_link
+
+## Feautures of the App
+- Decent Ui
+- Maps 
+- Firestore for storing data 
+- Authentification using google
+
+## The Application is built on the following 
+1.Card view
+
+2.Working with dependancies and manifest file 
+
+3.Launcher activity and intent
+
+4.Constraints 
+
+5.Color picking using colour picker
+
+6.Imageveiw
+
+7.Constraint
+
+8.Elevation
+
+9.Action bar 
+
+10.Colour variant 
+
+11.Colours xml file usage
+
+12.Bottom navigation view   --- menu items – vector assets
+
+13.Working with multiple activities
+
+14.  Working with fragment 
+
+15. Working with multiple fragments
+
+16.  Recyclerveiw
+
+17. Creating single member and accesing
+
+18. Passing data using adaptor
+
+19.  Ui shapes selectors 
+
+20.  Working with maps
+21. veiwbinding
+22.  Working with api 
+
+22. Working with permissions
+
+23. Fetching contacts 
+
+24. Opening camera
+
+25. Working with firebase
+
+26. Signin with google 
+
+27. Shared prepferences
+
+28. Firebase
+29.  Using firestore 
+30. Fetching and updating data in firestore
+31.  Location updates on firebase
+
+## CLOUD FIRESTORE SNIPPET:
+![Screenshot 2023-03-11 042517](https://user-images.githubusercontent.com/102940747/224443427-d0dfee96-8ca3-4b6c-b3c9-9b8e208a2911.png)
+
 
 
