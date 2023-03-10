@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541110332511",
+    "project_id": "feisty-proton-380208",
+    "storage_bucket": "feisty-proton-380208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541110332511:android:6c2035f87f6dea8e94bfea",
+        "android_client_info": {
+          "package_name": "com.example.familysafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541110332511-tv427f3u6r6son5um3h7aob0376me8rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF3VwAorveOBjapmZHMp7LgQQ6NCX4AJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541110332511-tv427f3u6r6son5um3h7aob0376me8rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
